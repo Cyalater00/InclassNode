@@ -1,0 +1,19 @@
+# pros
+# -single threaded based on an event-driven, non blocking I/O model
+# -perfect for building fast and scalable data intensive apps.
+
+# used node.js
+#api with a database behind it (preferably NoSQL)
+#Sever side web application
+#real time chat application
+
+ #core modules: provides two different functions for writting files: writeflie and writefileSync.
+
+ #Run time enviroment
+
+ #A set of function you want to include in your application
+ #A libray is a collection of useful things, it could be many things that help you with some action and they dont have to be in the same language
+
+ # A module in an individual file of source code so ANY code that you  write in the Mode runtime is a module. So modules are a self contained part of the source code
+
+ The  fs.readFile() method is used to read files on  your computer. alsoe Node.jscant be in a folder since Node is the run time enivronment
